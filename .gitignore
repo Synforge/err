@@ -21,6 +21,7 @@ config_tox.py
 /.coverage
 /data
 /config.py.*
+/env
 
 *.log
 *.crt
