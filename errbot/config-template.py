@@ -90,6 +90,10 @@ BOT_IDENTITY = {
     # 'username' : 'errbot',
     # 'password' : 'changeme',
 
+    ## Slack mode (Comment the others above if using this mode)
+    # 'subdomain': 'synforge'
+    # 'token': 'xoxb-4411513055-sdf992d'
+
     ## TOX Mode (comment the others above if using this mode)
     # BOT_IDENTITY = {'username': 'errbot',}
 
